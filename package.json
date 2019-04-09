@@ -51,6 +51,7 @@
     "express": "^4.16.3",
     "faker": "^4.1.0",
     "jsonwebtoken": "^8.3.0",
+    "just-extend": "^4.0.2",
     "lodash": "^4.17.11",
     "mocha": "^5.2.0",
     "mongodb": "^3.1.6",
