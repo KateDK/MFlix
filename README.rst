@@ -242,7 +242,7 @@ Replace the SRV string below with your own:
 
   # import data into Atlas
   mongorestore --drop --gzip --uri \
-    "mongodb+srv://m220student:m220password@<YOUR_CLUSTER_URI>" data
+    "mongodb+srv://m220student:m220password@mflix-1ydbs.mongodb.net/test" data
 
 The entire dataset contains almost 200,000 documents, so importing this data may
 take 5-10 minutes.
